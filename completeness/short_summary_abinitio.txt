@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: embryophyta_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1440)
+# To reproduce this run: python /sw/bioinfo/busco/BUSCO_v3.0.2b/busco/scripts/run_BUSCO.py -i maker_abinitio_AA.fa -o abinitio -l ../embryophyta_odb9/ -m proteins -c 16
+#
+# Summarized benchmarking in BUSCO notation for file maker_abinitio_AA.fa
+# BUSCO was run in mode: proteins
+
+	C:38.7%[S:31.4%,D:7.3%],F:11.0%,M:50.3%,n:1440
+
+	557	Complete BUSCOs (C)
+	452	Complete and single-copy BUSCOs (S)
+	105	Complete and duplicated BUSCOs (D)
+	159	Fragmented BUSCOs (F)
+	724	Missing BUSCOs (M)
+	1440	Total BUSCO groups searched
