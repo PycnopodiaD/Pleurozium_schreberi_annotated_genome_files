@@ -1,0 +1,26 @@
+Number of genes                              192
+Number of trnas                              192
+Number of exons                              200
+Number of intron in exon                     8
+Number of single exon gene                   184
+Number of single exon trna                   184
+mean trnas per gene                          1.0
+mean exons per trna                          1.0
+mean introns in exons per trna               0.0
+Total gene length                            14393
+Total trna length                            14393
+Total exon length                            14307
+Total intron length per exon                 94
+mean gene length                             74
+mean trna length                             74
+mean exon length                             71
+mean intron in exon length                   11
+Longest genes                                87
+Longest trnas                                87
+Longest exons                                87
+Longest intron into exon part                13
+Shortest genes                               71
+Shortest trnas                               71
+Shortest exons                               36
+Shortest intron into exon part               11
+
